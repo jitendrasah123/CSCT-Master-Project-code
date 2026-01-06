@@ -1,8 +1,0 @@
-https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7bu/mm23
-https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/datasets/familyspendingworkbook1detailedexpenditureandtrends?
-https://fred.stlouisfed.org/series/LRHUTTTTGBQ156S#
-https://www.ons.gov.uk/economy/nationalaccounts/satelliteaccounts/datasets/consumertrendscurrentpriceseasonallyadjusted
-https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/datasets/quarterlysectoraccounts?utm_source=chatgpt.com
-
-
-
